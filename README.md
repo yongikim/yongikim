@@ -1,8 +1,8 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yongikim
-)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongikim
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongikim&layout=compact&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yongikim&show_icons=true" />
+</p>
 
 <!--
 **yongikim/yongikim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
